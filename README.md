@@ -49,5 +49,5 @@ This is a comprehensive **Pharmacy Management System** built using Python and th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pharmacy-management-system.git
+   git clone https://github.com/arslanraza23cit111/pharmacy-management-system.git
    cd pharmacy-management-system
